@@ -4,5 +4,5 @@
 
 ```
    install 
-   go get gopkg.in/kataras/iris.v6
+   gopm get -u gopkg.in/kataras/iris.v6
 ```
